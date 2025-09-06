@@ -1,9 +1,10 @@
 <!-- Opcional: banner à direita (troque o src por uma imagem sua) -->
-<!-- <img align="right" width="320" src="https://via.placeholder.com/640x360.png?text=Felipe+Torres" alt="Banner" /> -->
+ <img align="right" width="320" src="https://via.placeholder.com/640x360.png?text=Felipe+Torres" alt="Banner" />
 
 <h1>Fala aí! Eu sou o Felipe Torres 👋</h1>
 
-Sou <strong>Desenvolvedor</strong>, tenho <strong>22 anos</strong>
+Sou o **Felipe Torres**, tenho **22 anos** e sou **Desenvolvedor** em formação 🧠⚡  
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Veiga de Almeida (UVA)**.
 
 - 🌐 Portfólio: <a href="https://felipeportfolio.forgedevapps.com" target="_blank">felipeportfolio.forgedevapps.com</a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/felipe-torres-id/" target="_blank">/in/felipe-torres-id</a>
