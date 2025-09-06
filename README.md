@@ -37,7 +37,6 @@ Aqui você encontra estudos, mini-apps e projetos reais que estou evoluindo.
 ---
 
 ## ✨ Projetos em destaque
-> Fixe (Pin) seus melhores repositórios no topo do perfil.
 - Portfólio pessoal
 - CRUD/API com Laravel + MySQL
 
