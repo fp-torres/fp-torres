@@ -1,5 +1,5 @@
 <!-- Opcional: banner à direita (troque o src por uma imagem sua) -->
- <img align="right" width="320" src="[https://via.placeholder.com/640x360.png?text=Felipe+Torres](https://static.vecteezy.com/ti/fotos-gratis/t2/6709644-abstract-modern-tech-of-programming-code-screen-developer-gratis-foto.jpg)" alt="Banner" />
+<img src="./assets/banner.gif" alt="Banner animado de Felipe Torres" align="right" width="320">
 
 <h1>Fala aí! Eu sou o Felipe Torres 👋</h1>
 
