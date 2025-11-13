@@ -1,5 +1,5 @@
 <!-- Opcional: banner à direita (troque o src por uma imagem sua) -->
-<img src="./assets/banner.gif" alt="Banner animado de Felipe Torres" align="right" width="320">
+<!-- <img src="./assets/banner.gif" alt="Banner animado de Felipe Torres" align="right" width="320">-->
 
 <h1>Fala aí! Eu sou o Felipe Torres 👋</h1>
 
