@@ -46,7 +46,7 @@ Atualmente estou expandindo meus horizontes saindo do PHP/Laravel para dominar o
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fp-torres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fp-torres&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fp-torres&layout=compact&theme=dracula"/>
 </div>
 
