@@ -1,59 +1,78 @@
 <div align="center">
-  <h1>Fala aí! Eu sou o Felipe Torres 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd100&height=220&section=header&text=Felipe%20Torres&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=0b0f1a&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
   
-  <p>
-    <b>Desenvolvedor Full Stack em formação & Tech Enthusiast</b><br>
-    Tenho 22 anos, sou do Rio de Janeiro e curso <b>Análise e Desenvolvimento de Sistemas</b> na <b>UVA</b>.
-  </p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+Python;Trainee+na+Crase+Sigma;Apaixonado+por+Tecnologia+%26+V%C3%ADdeo)](https://git.io/typing-svg)
 
   <p>
-    <a href="https://felipeportfolio.forgedevapps.com" target="_blank">🌐 Portfólio Online</a> •
-    <a href="https://www.linkedin.com/in/felipe-torres-id/" target="_blank">💼 LinkedIn</a> •
-    <a href="mailto:felipetorresaraujo@gmail.com">✉️ Email</a>
+    <a href="https://felipeportfolio.forgedevapps.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfólio-Online-ffd100?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/felipe-torres-id/" target="_blank">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:felipetorresaraujo@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_Email-Falar_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
   </p>
+</div>
+
+<br />
+
+## ⚡ Sobre Mim
+
+Olá! Tenho 23 anos, sou do Rio de Janeiro e atualmente atuo como **Desenvolvedor Trainee na Crase Sigma**. 
+
+Minha base técnica vem da união entre **Desenvolvimento de Software** e **Produção Audiovisual**, o que me deu um olhar detalhista para interfaces e experiência do usuário. Hoje, meu foco é construir aplicações completas, escaláveis e com código limpo.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UVA**.
+- 💻 Foco atual: **React Ecosystem, Node.js e Arquitetura de Software**.
+- 🐧 Usuário entusiasta de **Linux (Ubuntu)** no dia a dia.
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+
+| **Frontend** | **Backend & DB** | **DevOps & Tools** | **OS** |
+| :---: | :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white) | |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | | |
+
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Projetos em Destaque
 
-Sou um desenvolvedor focado em criar soluções que unem performance e boa experiência visual. Além do desenvolvimento web clássico, tenho um background técnico em **produção de vídeo** e automação.
-
-Atualmente estou expandindo meus horizontes saindo do PHP/Laravel para dominar o ecossistema **JavaScript (React)** e **Python** para automações.
-
----
-
-## 🛠️ Stack e Ferramentas
-
-| Categoria | Tecnologias |
-|---|---|
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
-| **Banco de Dados** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) |
-| **Sistemas** | ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-
----
-
-## ⚡ Projetos e Estudos Recentes
-
-* **ForgeDevApps:** Desenvolvimento de identidade visual e infraestrutura para desenvolvimento de software.
-* **Py-Timecode-Calc:** Ferramenta em Python para cálculos de timecode e formatos de vídeo.
-* **Estudos em React:** Aplicações front-end modernas consumindo APIs.
-* **Pixel Art:** Criação de assets digitais (Variações de personagens/Joker).
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| **[ForgeDevApps](https://forgedevapps.com)** | Plataforma institucional moderna focada em conversão e performance. | `React` `Tailwind` `Vite` |
+| **[Costs Manager](https://github.com/fp-torres/costs)** | Sistema de gerenciamento financeiro de projetos com orçamentos dinâmicos. | `React` `JSON Server` `CRUD` |
+| **[Steak Burger](https://steakburger.forgedevapps.com)** | Landing page interativa com cardápio digital e design responsivo. | `HTML` `CSS` `JS` |
+| **Py-Timecode** | Ferramenta de automação para cálculos de timecode e vídeo. | `Python` |
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fp-torres&theme=dracula" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fp-torres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fp-torres&layout=compact&theme=dracula"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fp-torres&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/felipe-torres-id/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  <p><i>"Tecnologia é a arte de transformar o impossível em código."</i></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fp-torres.fp-torres" alt="visitors">
 </div>
