@@ -61,10 +61,26 @@ Minha atuação é focada na construção de aplicações robustas e escaláveis
 
 ---
 
-## 📊 Analytics & Atividade
+## 📊 Analytics & Conquistas
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/fp-torres?template=classic&base=header,activity,community,repositories,metadata&config_timezone=America%2FSao_Paulo&config_twemoji=true&repository_code_lines=true&isocalendar=1&isocalendar_duration=half-year&languages=1&languages_limit=8&languages_sections=most-used&languages_details=lines,percentage&theme=tokyonight" alt="Metrics" width="100%">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fp-torres&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fp-torres&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fp-torres&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fp-torres&theme=tokyonight" alt="Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fp-torres&theme=tokyonight" alt="Produtividade" />
 </div>
 
 ---
