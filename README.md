@@ -61,19 +61,10 @@ Minha atuação é focada na construção de aplicações robustas e escaláveis
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Analytics & Atividade
 
 <div align="center">
-  <a href="https://github.com/fp-torres">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fp-torres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/fp-torres">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fp-torres&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fp-torres&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/fp-torres?template=classic&base=header,activity,community,repositories,metadata&config_timezone=America%2FSao_Paulo&config_twemoji=true&repository_code_lines=true&isocalendar=1&isocalendar_duration=half-year&languages=1&languages_limit=8&languages_sections=most-used&languages_details=lines,percentage&theme=tokyonight" alt="Metrics" width="100%">
 </div>
 
 ---
