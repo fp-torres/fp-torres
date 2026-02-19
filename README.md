@@ -64,26 +64,25 @@ Minha atuação é focada na construção de aplicações robustas e escaláveis
 ## 📊 Analytics & Conquistas
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fp-torres&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title_color=ffd100&text_color=ffd100" />
-  </a>
+  <!-- TROPHIES (sem link clicável para evitar imagem quebrada) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=fp-torres&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&title_color=ffd100&text_color=ffd100" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Activity Graph CORRIGIDO (substitui o que estava quebrado) + amarelo -->
+  <!-- Activity Graph amarelo (igual seu estilo) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fp-torres&theme=tokyo-night&hide_border=true&area=true&color=ffd100&line=ffd100&point=ffffff" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Stats (mantido igual ao seu estilo original) -->
+  <!-- Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fp-torres&theme=tokyonight" alt="Stats" />
   
-  <!-- Top Languages by Repo (mantém o gráfico circular bonito) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fp-torres&theme=tokyonight" alt="Top Languages by Repo" />
+  <!-- Linguagens (mais preciso que o circular antigo para pegar TS) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fp-torres&layout=donut&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
   <!-- Commits por horário -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fp-torres&theme=tokyonight&utcOffset=-3" alt="Productive Time" />
@@ -94,6 +93,6 @@ Minha atuação é focada na construção de aplicações robustas e escaláveis
 <div align="center">
   <p><i>"Tecnologia é a arte de transformar o impossível em código."</i></p>
   
-  <!-- Visitor badge corrigido (mais confiável que o laobi) -->
+  <!-- Visitor confiável (extra opcional aplicado) -->
   <img src="https://komarev.com/ghpvc/?username=fp-torres&label=visitors&color=ffd100&style=flat" alt="visitors">
 </div>
