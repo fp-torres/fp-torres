@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFD100&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Construindo+solu%C3%A7%C3%B5es+do+Front+ao+Back+%F0%9F%94%A5;React+%7C+Angular+%7C+Laravel+%7C+NestJS+%7C+Spring+Boot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD100&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Construindo+solu%C3%A7%C3%B5es+do+Front+ao+Back;React+%7C+Angular+%7C+Laravel+%7C+NestJS+%7C+Spring+Boot)](https://git.io/typing-svg)
 
 <br/>
 
@@ -161,6 +161,121 @@ Plataforma institucional moderna focada em conversão e performance, desenvolvid
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fp-torres/fp-torres/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fp-torres/fp-torres/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/fp-torres/fp-torres/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+> 💡 *A cobra devora suas contribuições! Para ativar, adicione o [workflow snake](#-como-ativar-a-snake-animation) no seu repo de perfil.*
+
+---
+
+## 🕹️ Zona Interativa
+
+<div align="center">
+
+### ⚡ Explore meus projetos ao vivo
+
+<a href="https://github.codespaces.new/fp-torres/felipeportfolio2.0" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Abrir_Portfólio_no-Codespace-ffd100?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://forgedevapps.com" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Ver_ForgeDevApps-Online-0b0f1a?style=for-the-badge&logo=google-chrome&logoColor=ffd100" />
+</a>
+&nbsp;
+<a href="https://steakburger.forgedevapps.com" target="_blank">
+  <img src="https://img.shields.io/badge/🍔_Ver_Steak_Burger-Online-D14836?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 🎮 Qual stack você curte mais?
+
+*Clique para explorar cada tecnologia!*
+
+<a href="https://react.dev" target="_blank"><img src="https://img.shields.io/badge/⚛️_React-Eu_curto!-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+&nbsp;
+<a href="https://angular.io" target="_blank"><img src="https://img.shields.io/badge/🅰️_Angular-Esse_é_top!-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+&nbsp;
+<a href="https://laravel.com" target="_blank"><img src="https://img.shields.io/badge/🔥_Laravel-Mandou_bem!-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
+
+<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/🍃_Spring_Boot-Robusto!-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /></a>
+&nbsp;
+<a href="https://nestjs.com" target="_blank"><img src="https://img.shields.io/badge/🐱_NestJS-Escalável!-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /></a>
+&nbsp;
+<a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/📱_Kotlin-Mobile!-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+
+<br/><br/>
+
+### 🎲 Desafio Rápido — Adivinhe o Output!
+
+<details>
+<summary>🧩 <b>Clique para revelar o desafio</b></summary>
+
+<br/>
+
+```javascript
+const dev = {
+  nome: "Felipe",
+  stacks: ["React", "Angular", "Laravel", "NestJS", "Spring Boot"],
+  café: Infinity
+};
+
+console.log(dev.stacks.filter(s => s.includes("a")).length);
+```
+
+<details>
+<summary>👀 <b>Ver resposta</b></summary>
+
+<br/>
+
+> **Resposta: `3`** → `"React"`, `"Angular"` e `"Laravel"` contêm a letra `"a"`.
+>
+> Se você acertou, bora trocar uma ideia! Me chama no [LinkedIn](https://www.linkedin.com/in/felipe-torres-id/) 🤝
+
+</details>
+
+</details>
+
+<br/>
+
+<details>
+<summary>🧩 <b>Mais um! Esse é de Java</b></summary>
+
+<br/>
+
+```java
+String[] techs = {"Spring", "Boot", "JPA", "REST"};
+int count = 0;
+for (String t : techs) {
+    if (t.length() <= 4) count++;
+}
+System.out.println(count);
+```
+
+<details>
+<summary>👀 <b>Ver resposta</b></summary>
+
+<br/>
+
+> **Resposta: `3`** → `"Boot"` (4), `"JPA"` (3) e `"REST"` (4) têm length ≤ 4.
+>
+> Gostou? Olha meu [CEP Address Manager](https://github.com/fp-torres/cep-address-manager-fullstack) feito em Java + Spring Boot! ☕
+
+</details>
+
+</details>
+
+</div>
+
+---
+
 ## 📊 Analytics & Conquistas
 
 <div align="center">
@@ -198,10 +313,6 @@ Plataforma institucional moderna focada em conversão e performance, desenvolvid
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Tecnologia%20%C3%A9%20a%20arte%20de%20transformar%20o%20imposs%C3%ADvel%20em%20c%C3%B3digo.&author=Felipe%20Torres" />
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=fp-torres&label=Profile%20Views&color=ffd100&style=for-the-badge"/>
 
 </div>
@@ -211,3 +322,10 @@ Plataforma institucional moderna focada em conversão e performance, desenvolvid
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1a1f2e,100:ffd100&height=120&section=footer" width="100%"/>
 </div>
+
+---
+
+<details>
+<summary>🐍 <b>Como ativar a Snake Animation</b></summary>
+
+<br/>
