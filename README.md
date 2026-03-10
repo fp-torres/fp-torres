@@ -171,7 +171,6 @@ Plataforma institucional moderna focada em conversão e performance, desenvolvid
   </picture>
 </div>
 
-> 💡 *A cobra devora suas contribuições! Para ativar, adicione o [workflow snake](#-como-ativar-a-snake-animation) no seu repo de perfil.*
 
 ---
 
@@ -323,9 +322,3 @@ System.out.println(count);
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:1a1f2e,100:ffd100&height=120&section=footer" width="100%"/>
 </div>
 
----
-
-<details>
-<summary>🐍 <b>Como ativar a Snake Animation</b></summary>
-
-<br/>
