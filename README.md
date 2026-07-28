@@ -58,58 +58,83 @@ objetivo: Unir frameworks modernos com a estabilidade de sistemas corporativos
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍔 [TorresBurgers](https://github.com/fp-torres/TorresBurguers)
 **Full Stack Delivery System**
 
 Ecossistema completo de delivery com **App Mobile (React Native)**, **Painel Administrativo (Web)** e **API NestJS**. Inclui Kanban de pedidos, integração de pagamentos PIX, pipeline de otimização de imagens com Sharp, autenticação JWT e dashboards com Recharts.
 
-`NestJS` `React Native` `React` `JWT` `Sharp` `Recharts`
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Sharp](https://img.shields.io/badge/Sharp-99CC00?style=flat-square)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔎 [OmniDex](https://github.com/fp-torres/OmniDex)
 **Monorepo Full Stack — Laravel + React**
 
 Monorepo integrando API Laravel 12 com Frontend React 19 + TypeScript. Utiliza TanStack Query para cache, Zod para validação, Tailwind CSS e arquitetura limpa com separação de camadas.
 
-`Laravel 12` `React 19` `TypeScript` `TailwindCSS` `TanStack Query` `Zod`
+![Laravel 12](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 [Portfólio Interativo v3.0](https://github.com/fp-torres/felipeportfolio2.0)
 **Aplicação Híbrida com API Própria**
 
 Portfólio bilíngue (PT/EN) com integração **Spotify API + Lanyard**, analytics **WakaTime**, Easter Egg da **NASA APOD**, Arcade Zone com mini-games em React e animações com Framer Motion.
 
-`React` `Vite` `Tailwind` `Framer Motion` `PHP` `Spotify API`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📍 [CEP Address Manager](https://github.com/fp-torres/cep-address-manager-fullstack)
-**Full Stack — Java + React**
+### 📝 Emissor de NFS-e CRASE
+**Emissão da NFS-e Nacional — avulsa & em lote**
 
-Sistema de cadastro com busca automática de endereço via ViaCEP, validação de CPF, Global Exception Handling e UI responsiva. Backend em Spring Boot com arquitetura em camadas (Controller → Service → Repository → DTO).
+![Corporativo](https://img.shields.io/badge/🔒_corporativo-em_produção-ffd100?style=flat-square&labelColor=1a1f2e)
 
-`Java 17` `Spring Boot` `PostgreSQL` `React 18` `Axios` `REST API`
+Backend **Flask** e frontend **React/Vite** compartilhando o mesmo núcleo **Python**: validação de certificado digital, geração e assinatura de **XML** (DPS), envio à SEFIN, **DANFSe**, processamento em lote com jobs e cancelamento cooperativo.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![XML](https://img.shields.io/badge/XML-0060AC?style=flat-square)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" align="center" valign="top">
 
 ### 🏢 [ForgeDevApps](https://forgedevapps.com)
 **Site Institucional — React + TypeScript**
 
 Plataforma institucional moderna focada em conversão e performance, desenvolvida com React, TypeScript, Vite e Twind/Tailwind CSS.
 
-`React` `TypeScript` `Vite` `Twind/Tailwind CSS`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Twind/Tailwind CSS](https://img.shields.io/badge/Twind%2FTailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 </tr>
